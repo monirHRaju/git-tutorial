@@ -20,3 +20,6 @@ git folder by
 
 TRY A NEW VERSION
 another line
+
+today is 2nd tutorial day. last day i hve done my assignment. 
+this msg was written from github.
